@@ -14,36 +14,36 @@
 
 ## 🎓 About Me
 
-```javascript
+javascript
 const juniorDeveloper = {
-    name: "Your Name",
+    name: "Ari eka saputra",
     role: "Fresh Graduate Junior Full Stack Developer",
     location: "Indonesia 🇮🇩",
-    education: "Computer Science Graduate",
+    education: "PPLG(Pemograman Perangkat Lunak dan Gim)",
     
-    currentStatus: {
-        learning: ["Advanced React Patterns", "Node.js Architecture", "MongoDB"],
+   currentStatus: {
+        learning: ["Advanced React Patterns", "Node.js Architecture", "MySql"],
         lookingFor: "Entry Level Full Stack Developer Position",
         workingOn: "Personal Portfolio Projects",
         collaborating: "Open Source JavaScript Projects"
     },
     
-    techStack: {
+  techStack: {
         frontend: ["HTML5", "CSS3", "JavaScript", "React.js", "Next.js"],
         backend: ["Node.js", "Express.js", "RESTful APIs"],
-        database: ["MongoDB", "MySQL", "Firebase"],
+        database: ["MySQL"],
         tools: ["Git", "VS Code", "Postman", "Figma"],
         deployment: ["Vercel", "Netlify", "Heroku"]
     },
     
-    goals2024: [
+  goals2024: [
         "Land my first developer job 💼",
         "Contribute to open source projects 🌟",
         "Build 5+ full-stack projects 🚀",
         "Learn TypeScript & testing 📚"
     ],
     
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+  funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 💜 Tech Stack
 Frontend
@@ -119,14 +119,14 @@ javascriptconst learningPath = {
         "Testing (Jest, React Testing Library)"
     ],
     
-    nextOnList: [
+  nextOnList: [
         "TypeScript for better code quality",
         "GraphQL & Apollo Client",
         "Docker & DevOps basics",
         "AWS fundamentals"
     ],
     
-    completedRecently: [
+  completedRecently: [
         "✅ ES6+ JavaScript features",
         "✅ React Router & State Management",
         "✅ RESTful API development",
