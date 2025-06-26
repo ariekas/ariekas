@@ -77,11 +77,11 @@ const developer = {
 ## 🎯 Current Learning Goals
 
 - 🔭 I'm currently working on **full-stack web applications**
-- 🌱 I'm currently learning **TypeScript and Next.js**
+- 🌱 I'm currently learning **Express JS and Next.js**
 - 👯 I'm looking to collaborate on **open source projects**
 - 🤔 I'm looking for help with **system design and architecture**
 - 💬 Ask me about **React, Node.js, and web development**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **arieka310107@gmail.com**
 - ⚡ Fun fact: **I think I'm funny but my code says otherwise! 😂**
 
 
