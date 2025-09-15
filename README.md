@@ -64,11 +64,6 @@ const developer = {
   <img src="https://streak-stats.demolab.com?user=ariekas&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ariekas&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 🔥 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariekas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -84,12 +79,6 @@ const developer = {
 - 📫 How to reach me: **arieka310107@gmail.com**
 - ⚡ Fun fact: **I think I'm funny but my code says otherwise! 😂**
 
-
-## 📈 Contribution Calendar
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/ariekas" alt="Contribution Calendar" width="100%"/>
-</div>
 
 ## 🌐 Connect with Me
 
